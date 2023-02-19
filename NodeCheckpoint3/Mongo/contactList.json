@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "63f23853cbfeb4032b36f004"
+  },
+  "Last_name": "Ben Lahmer",
+  "First_name": "Fares",
+  "Email": "fares@gmail.com",
+  "age": 26
+},{
+  "_id": {
+    "$oid": "63f23853cbfeb4032b36f005"
+  },
+  "Last_name": "Kefi",
+  "First_name": "Anis",
+  "Email": "kefi@gamil.com",
+  "age": 15
+},{
+  "_id": {
+    "$oid": "63f23853cbfeb4032b36f006"
+  },
+  "Last_name": "Fatnassi",
+  "First_name": "Sarra",
+  "Email": "sarra.f@gmail.com",
+  "age": 40
+},{
+  "_id": {
+    "$oid": "63f23853cbfeb4032b36f007"
+  },
+  "Last_name": "Ben Yahia",
+  "First_name": "Rym",
+  "age": 4
+},{
+  "_id": {
+    "$oid": "63f23853cbfeb4032b36f008"
+  },
+  "Last_name": "Cherif",
+  "First_name": "Sami",
+  "age": 3
+}]
